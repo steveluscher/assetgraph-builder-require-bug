@@ -1,0 +1,6 @@
+{
+  "name": "test",
+  "dependencies": {
+    "config": "=0.4.20"
+  }
+}
